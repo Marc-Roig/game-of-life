@@ -9,8 +9,8 @@ function App() {
   const [initBoard, setInitBoard] = useState<BoardType>(null);
   const [gameSpeed, setGameSpeed] = useState<number | null>(null);
   const { board, tick, toggleCell, reset } = useGame({
-    rows: 20,
-    cols: 50,
+    rows: 29,
+    cols: 100,
     initBoard,
   });
 

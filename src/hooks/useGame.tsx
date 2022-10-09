@@ -21,8 +21,8 @@ const createBoard = ({ rows, cols }: { rows: number; cols: number }): Board =>
       x: col,
       y: row,
       aliveFor: 0,
-      // isAlive: false,
-      isAlive: Math.random() > 0.8 ? true : false,
+      isAlive: false,
+      // isAlive: Math.random() > 0.8 ? true : false,
     }))
   );
 
@@ -80,7 +80,7 @@ export const useGame = ({ rows, cols, initBoard }: GameProps) => {
 
   /* Reset board */
   const reset = () => {
-    setBoard(createBoard({ rows, cols }));
+    setBoard(initBoard || createBoard({ rows, cols }));
   };
 
   /* Update board */

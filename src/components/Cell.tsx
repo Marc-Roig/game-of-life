@@ -1,4 +1,4 @@
-const Cell = ({ cell, dragged, handleCellClick }) => {
+const Cell = ({ cell, handleCellClick, size = 20 }) => {
   const { isAlive, aliveFor = 0 } = cell;
 
   const cellColor = () => {
@@ -14,8 +14,8 @@ const Cell = ({ cell, dragged, handleCellClick }) => {
   return (
     <div
       className={`cell ${isAlive ? cellColor() : ""}`}
+      style={{ width: `${size}px`, height: `${size}px` }}
       onClick={(e) => handleCellClick()}
-      onMouseEnter={(e) => dragged && handleCellClick()}
     />
   );
 };

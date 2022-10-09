@@ -562,12 +562,12 @@
     {
       "x": 11,
       "y": 2,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 12,
       "y": 2,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -682,12 +682,12 @@
     {
       "x": 35,
       "y": 2,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
       "y": 2,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 37,
@@ -809,7 +809,7 @@
     {
       "x": 10,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -819,7 +819,7 @@
     {
       "x": 12,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -834,12 +834,12 @@
     {
       "x": 15,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -914,12 +914,12 @@
     {
       "x": 31,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 33,
@@ -934,7 +934,7 @@
     {
       "x": 35,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -944,7 +944,7 @@
     {
       "x": 37,
       "y": 3,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
@@ -1056,7 +1056,7 @@
     {
       "x": 9,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 10,
@@ -1071,7 +1071,7 @@
     {
       "x": 12,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -1081,7 +1081,7 @@
     {
       "x": 14,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
@@ -1091,7 +1091,7 @@
     {
       "x": 16,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -1131,12 +1131,12 @@
     {
       "x": 24,
       "y": 4,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 25,
       "y": 4,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 26,
@@ -1166,7 +1166,7 @@
     {
       "x": 31,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
@@ -1176,7 +1176,7 @@
     {
       "x": 33,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 34,
@@ -1186,7 +1186,7 @@
     {
       "x": 35,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -1201,7 +1201,7 @@
     {
       "x": 38,
       "y": 4,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -1308,12 +1308,12 @@
     {
       "x": 9,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 10,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -1323,7 +1323,7 @@
     {
       "x": 12,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -1333,7 +1333,7 @@
     {
       "x": 14,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
@@ -1378,7 +1378,7 @@
     {
       "x": 23,
       "y": 5,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 24,
@@ -1393,7 +1393,7 @@
     {
       "x": 26,
       "y": 5,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 27,
@@ -1423,12 +1423,12 @@
     {
       "x": 32,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 33,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 34,
@@ -1438,7 +1438,7 @@
     {
       "x": 35,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -1448,12 +1448,12 @@
     {
       "x": 37,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
       "y": 5,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -1575,7 +1575,7 @@
     {
       "x": 12,
       "y": 6,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -1585,12 +1585,12 @@
     {
       "x": 14,
       "y": 6,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
       "y": 6,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
@@ -1630,22 +1630,22 @@
     {
       "x": 23,
       "y": 6,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 24,
       "y": 6,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 25,
       "y": 6,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 26,
       "y": 6,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 27,
@@ -1812,12 +1812,12 @@
     {
       "x": 9,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 10,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -1827,7 +1827,7 @@
     {
       "x": 12,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -1842,7 +1842,7 @@
     {
       "x": 15,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
@@ -1872,7 +1872,7 @@
     {
       "x": 21,
       "y": 7,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 22,
@@ -1882,7 +1882,7 @@
     {
       "x": 23,
       "y": 7,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 24,
@@ -1897,7 +1897,7 @@
     {
       "x": 26,
       "y": 7,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 27,
@@ -1907,7 +1907,7 @@
     {
       "x": 28,
       "y": 7,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 29,
@@ -1937,12 +1937,12 @@
     {
       "x": 34,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 35,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -1952,12 +1952,12 @@
     {
       "x": 37,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
       "y": 7,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -2054,7 +2054,7 @@
     {
       "x": 7,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 8,
@@ -2069,7 +2069,7 @@
     {
       "x": 10,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -2079,7 +2079,7 @@
     {
       "x": 12,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -2119,7 +2119,7 @@
     {
       "x": 20,
       "y": 8,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 21,
@@ -2164,7 +2164,7 @@
     {
       "x": 29,
       "y": 8,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 30,
@@ -2199,12 +2199,12 @@
     {
       "x": 36,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 37,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
@@ -2219,7 +2219,7 @@
     {
       "x": 40,
       "y": 8,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 41,
@@ -2306,12 +2306,12 @@
     {
       "x": 7,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 8,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 9,
@@ -2326,7 +2326,7 @@
     {
       "x": 11,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 12,
@@ -2346,12 +2346,12 @@
     {
       "x": 15,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -2371,7 +2371,7 @@
     {
       "x": 20,
       "y": 9,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 21,
@@ -2386,7 +2386,7 @@
     {
       "x": 23,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 24,
@@ -2401,7 +2401,7 @@
     {
       "x": 26,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 27,
@@ -2416,17 +2416,17 @@
     {
       "x": 29,
       "y": 9,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 30,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 31,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
@@ -2466,12 +2466,12 @@
     {
       "x": 39,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 40,
       "y": 9,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 41,
@@ -2598,12 +2598,12 @@
     {
       "x": 15,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -2633,12 +2633,12 @@
     {
       "x": 22,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 23,
       "y": 10,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 24,
@@ -2658,17 +2658,17 @@
     {
       "x": 27,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 28,
       "y": 10,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 29,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 30,
@@ -2683,7 +2683,7 @@
     {
       "x": 32,
       "y": 10,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 33,
@@ -2810,12 +2810,12 @@
     {
       "x": 7,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 8,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 9,
@@ -2830,7 +2830,7 @@
     {
       "x": 11,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 12,
@@ -2850,12 +2850,12 @@
     {
       "x": 15,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -2895,12 +2895,12 @@
     {
       "x": 24,
       "y": 11,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 25,
       "y": 11,
-      "isAlive": true
+      "isAlive": false
     },
     {
       "x": 26,
@@ -2925,12 +2925,12 @@
     {
       "x": 30,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 31,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
@@ -2970,12 +2970,12 @@
     {
       "x": 39,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 40,
       "y": 11,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 41,
@@ -3062,7 +3062,7 @@
     {
       "x": 7,
       "y": 12,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 8,
@@ -3076,90 +3076,90 @@
     },
     {
       "x": 10,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 11,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 12,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 13,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 14,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 15,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 16,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 17,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 18,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 19,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 20,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 21,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 22,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 23,
       "y": 12,
       "isAlive": true
     },
     {
-      "x": 24,
+      "x": 11,
       "y": 12,
       "isAlive": false
     },
     {
-      "x": 25,
-      "y": 12,
-      "isAlive": false
-    },
-    {
-      "x": 26,
+      "x": 12,
       "y": 12,
       "isAlive": true
     },
     {
+      "x": 13,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 15,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 16,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 17,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 18,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 19,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 20,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 21,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 22,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 23,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 24,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 25,
+      "y": 12,
+      "isAlive": false
+    },
+    {
+      "x": 26,
+      "y": 12,
+      "isAlive": false
+    },
+    {
       "x": 27,
       "y": 12,
       "isAlive": false
@@ -3207,12 +3207,12 @@
     {
       "x": 36,
       "y": 12,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 37,
       "y": 12,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
@@ -3227,7 +3227,7 @@
     {
       "x": 40,
       "y": 12,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 41,
@@ -3323,90 +3323,90 @@
     },
     {
       "x": 9,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 10,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 11,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 12,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 13,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 14,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 15,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 16,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 17,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 18,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 19,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 20,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 21,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 22,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 23,
-      "y": 13,
-      "isAlive": false
-    },
-    {
-      "x": 24,
       "y": 13,
       "isAlive": true
     },
     {
-      "x": 25,
+      "x": 10,
       "y": 13,
       "isAlive": true
     },
     {
+      "x": 11,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "isAlive": true
+    },
+    {
+      "x": 13,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 14,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 15,
+      "y": 13,
+      "isAlive": true
+    },
+    {
+      "x": 16,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 17,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 18,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 19,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 20,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 21,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 22,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 23,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 24,
+      "y": 13,
+      "isAlive": false
+    },
+    {
+      "x": 25,
+      "y": 13,
+      "isAlive": false
+    },
+    {
       "x": 26,
       "y": 13,
       "isAlive": false
@@ -3449,12 +3449,12 @@
     {
       "x": 34,
       "y": 13,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 35,
       "y": 13,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -3464,12 +3464,12 @@
     {
       "x": 37,
       "y": 13,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
       "y": 13,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -3591,7 +3591,7 @@
     {
       "x": 12,
       "y": 14,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -3601,12 +3601,12 @@
     {
       "x": 14,
       "y": 14,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
       "y": 14,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
@@ -3828,12 +3828,12 @@
     {
       "x": 9,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 10,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -3843,7 +3843,7 @@
     {
       "x": 12,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -3853,7 +3853,7 @@
     {
       "x": 14,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
@@ -3943,12 +3943,12 @@
     {
       "x": 32,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 33,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 34,
@@ -3958,7 +3958,7 @@
     {
       "x": 35,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -3968,12 +3968,12 @@
     {
       "x": 37,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
       "y": 15,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -4080,7 +4080,7 @@
     {
       "x": 9,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 10,
@@ -4095,7 +4095,7 @@
     {
       "x": 12,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -4105,7 +4105,7 @@
     {
       "x": 14,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 15,
@@ -4115,7 +4115,7 @@
     {
       "x": 16,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -4190,7 +4190,7 @@
     {
       "x": 31,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
@@ -4200,7 +4200,7 @@
     {
       "x": 33,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 34,
@@ -4210,7 +4210,7 @@
     {
       "x": 35,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -4225,7 +4225,7 @@
     {
       "x": 38,
       "y": 16,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 39,
@@ -4337,7 +4337,7 @@
     {
       "x": 10,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 11,
@@ -4347,7 +4347,7 @@
     {
       "x": 12,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -4362,12 +4362,12 @@
     {
       "x": 15,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 16,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 17,
@@ -4442,12 +4442,12 @@
     {
       "x": 31,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 32,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 33,
@@ -4462,7 +4462,7 @@
     {
       "x": 35,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
@@ -4472,7 +4472,7 @@
     {
       "x": 37,
       "y": 17,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 38,
@@ -4594,12 +4594,12 @@
     {
       "x": 11,
       "y": 18,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 12,
       "y": 18,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 13,
@@ -4714,12 +4714,12 @@
     {
       "x": 35,
       "y": 18,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 36,
       "y": 18,
-      "isAlive": false
+      "isAlive": true
     },
     {
       "x": 37,
