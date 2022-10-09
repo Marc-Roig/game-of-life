@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Cell  */
+.cell {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #181818;
+}
+
+/* Cell: alive */
+.cell-alive {
+  background-color: #bbb6b6;
+}
+
+.cell-newborn {
+  background-color: rgb(157,220,21);
+}
+
+.cell-young {
+  background-color: rgb(255,213,57);
+}
+
+.cell-mature {
+  background-color: rgb(245,143,32);
+}
+
+.cell-old {
+  background-color: rgb(202,32,77);
+}
+
+/* Board */
+.board {
+  display: grid;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  gap: 2rem;
+}
+
+/* Basic Controls */
+.controls-row {
+  display: flex;
+  gap: 2rem;
+}
