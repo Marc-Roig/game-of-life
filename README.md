@@ -1,6 +1,6 @@
 # Game Of Life
 
-<img src="./public/gol.gif"/>
+<img src="./public/gol.gif" width="700"/>
 
 Conway's Game of Life simulates the birth and death of cells on a rectangular grid.
 
