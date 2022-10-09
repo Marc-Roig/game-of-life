@@ -9,9 +9,10 @@ import { Fade, Zoom } from "react-awesome-reveal";
 function App() {
   const [initBoard, setInitBoard] = useState<BoardType>(null);
   const [gameSpeed, setGameSpeed] = useState<number | null>(null);
+
   const { board, tick, toggleCell, reset } = useGame({
-    rows: 29,
-    cols: 100,
+    rows: 30,
+    cols: 50,
     initBoard,
   });
 
@@ -23,11 +24,11 @@ function App() {
 
   return (
     <div>
-      <Zoom>
-        <h1>GAME OF LIFE</h1>
-      </Zoom>
-      {/* Board */}
       <Fade>
+        <h1>GAME OF LIFE</h1>
+      </Fade>
+      {/* Board */}
+      <Fade cascade>
         <Board board={board} toggleCell={toggleCell} />
         {/* Controls */}
         <div className="controls">

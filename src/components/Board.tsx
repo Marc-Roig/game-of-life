@@ -18,7 +18,7 @@ const Board = ({ board, toggleCell }: BoardProps) => {
   useEffect(() => {
     updateBoardDimensions();
     window.addEventListener("resize", updateBoardDimensions, false);
-  }, []);
+  }, [board]);
 
   return (
     <div
