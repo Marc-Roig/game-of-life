@@ -1,5 +1,7 @@
 # Game Of Life
 
+<img src="https://gyazo.com/37bee6e297854058f9bba2e11f2b0228.gif" width="500"/>
+
 Conway's Game of Life simulates the birth and death of cells on a rectangular grid.
 
 The state of a given cell in any generation depends on the state of the cell and its eight immediate neighbors in the preceding generation, according to some simple rules:
@@ -9,6 +11,4 @@ The state of a given cell in any generation depends on the state of the cell and
 
 As simple as these rules may be, they can result in surprising complexity from relatively simple initial configurations.
 
-See it running at https://marc-roig.github.io/game-of-life/
-
-![gol](./public/gol.png)
+See it running at 🌐 [`marc-roig.github.io/game-of-life`](https://marc-roig.github.io/game-of-life/)
