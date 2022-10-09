@@ -4,6 +4,7 @@ import { Board as BoardType, useGame } from "./hooks/useGame";
 import useInterval from "./hooks/useInterval";
 import Board from "./components/Board";
 import PresetLoader from "./components/PresetLoader";
+import { Fade, Zoom } from "react-awesome-reveal";
 
 function App() {
   const [initBoard, setInitBoard] = useState<BoardType>(null);
@@ -22,22 +23,26 @@ function App() {
 
   return (
     <div>
-      <h1>GAME OF LIFE</h1>
+      <Zoom>
+        <h1>GAME OF LIFE</h1>
+      </Zoom>
       {/* Board */}
-      <Board board={board} toggleCell={toggleCell} />
-      {/* Controls */}
-      <div className="controls">
-        <div className="controls-row">
-          <button onClick={() => setGameSpeed(100)}>Play</button>
-          <button onClick={() => setGameSpeed(null)}>Pause</button>
-          <button onClick={reset}>Reset</button>
+      <Fade>
+        <Board board={board} toggleCell={toggleCell} />
+        {/* Controls */}
+        <div className="controls">
+          <div className="controls-row">
+            <button onClick={() => setGameSpeed(100)}>Play</button>
+            <button onClick={() => setGameSpeed(null)}>Pause</button>
+            <button onClick={reset}>Reset</button>
+          </div>
+          <div className="controls-row">
+            <PresetLoader
+              handleSelect={(board: BoardType) => setInitBoard(board)}
+            />
+          </div>
         </div>
-        <div className="controls-row">
-          <PresetLoader
-            handleSelect={(board: BoardType) => setInitBoard(board)}
-          />
-        </div>
-      </div>
+      </Fade>
     </div>
   );
 }
