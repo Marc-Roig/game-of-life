@@ -36,6 +36,7 @@
 /* Board */
 .board {
   display: grid;
+  justify-content: center;
 }
 
 /* Controls */
